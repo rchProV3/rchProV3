@@ -1,9 +1,8 @@
-
 <p align="center">
   <img src="https://i.ibb.co/2k0Z9WJ/dark-elite-banner.gif" alt="Batuhan Kılıç - Frontend Developer" width="100%"/>
 </p>
 
-<h1 align="center">Merhaba, Ben Batuhan Kılıç 👋</h1>
+<h1 align="center">Merhaba, Ben Batuhan Kılıç <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px"></h1>
 <h3 align="center">Frontend Geliştirici & Teknoloji Meraklısı</h3>
 
 <p align="center">
@@ -12,7 +11,7 @@
 
 ---
 
-### 🚀 Teknoloji Stack'im
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="25" height="25" /> Teknoloji Stack'im
 
 <p align="center">
   <!-- Frontend -->
@@ -32,20 +31,20 @@
 
 ---
 
-### 📈 GitHub İstatistiklerim
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Chart" width="25" height="25" /> GitHub İstatistiklerim
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BATUHAN_USERNAME&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BATUHAN_USERNAME&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rchProV3&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rchProV3&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BATUHAN_USERNAME&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rchProV3&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
-### 🌐 Benimle İletişime Geçin
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Handshake.png" alt="Handshake" width="25" height="25" /> Benimle İletişime Geçin
 
 <p align="center">
   <a href="https://instagram.com/baturch.sbs" target="_blank">
@@ -64,11 +63,11 @@
 
 ---
 
-### 📱 Rch Pro V3
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png" alt="Mobile" width="25" height="25" /> Rch Pro V3
 
 <div align="center">
 
-#### 🎯 Rch Pro V3 - Mobil Uygulama
+#### Rch Pro V3 - Mobil Uygulama
 
 Çeşitli arşivlerin ve araçların bulunduğu kapsamlı mobil uygulama.
 
@@ -78,16 +77,14 @@
   </a>
 </p>
 
-<sub>⚠️ Tüm projeler açık kaynak kodlu olup, "Paylaşmak geliştirmektir" felsefesiyle hareket ediyoruz.</sub>
-
 </div>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=BATUHAN_USERNAME&color=blue&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=rchProV3&color=blue&style=flat-square" alt="Profile Views" />
 </p>
 
 <p align="center">
-  <i>✨ "Kod yazmak bir sanattır, her satır bir imzadır."</i>
+  <i>"Kod yazmak bir sanattır, her satır bir imzadır."</i>
 </p>
