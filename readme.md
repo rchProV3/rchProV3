@@ -2,8 +2,8 @@
   <img src="https://i.ibb.co/2k0Z9WJ/dark-elite-banner.gif" alt="Batuhan Kılıç - Frontend Developer" width="100%"/>
 </p>
 
-<h1 align="center">Hello, I'm Batuhan Kılıç</h1>
-<h3 align="center">Frontend Developer & Technology Enthusiast</h3>
+<h1 align="center">BATU - GİTHUB</h1>
+<h3 align="center">Frontend Developer - ui - ux Desinger</h3>
 
 <p align="center">
   Passionate frontend developer specializing in creating modern, high-performance web applications with exceptional user experiences.
@@ -42,7 +42,7 @@
 
 ---
 
-### 📱 Özelleştir Pro
+### Rch V3 Pro
 
 <div align="center">
 
