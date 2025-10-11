@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">BATU - GİTHUB</h1>
-<h3 align="center">Frontend Devs - uı/ux Developer
+<h3 align="center">Frontend Devs - uı/ux Developer</h3>
 
 <p align="center">
   Passionate frontend developer specializing in creating modern, high-performance web applications with exceptional user experiences.
