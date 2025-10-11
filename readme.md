@@ -3,15 +3,7 @@
 </p>
 
 <h1 align="center">Batuhan Kılıç</h1>
-<h3 align="center">Front-end Developer | Açık Kaynak Tutkunu | Kod Bir Sanattır</h3>
-
----
-
-### 👁‍🗨 Hakkımda
-- 💻 Yazılım benim sahnem, kod ise silahım.  
-- 🖤 Dark Elite modundayım: Her satır kod temiz, güçlü ve ölümcül.  
-- 🔥 Amacım: Modern ve performanslı arayüzler oluşturmak, üretkenliği maksimuma taşımak.  
-- 🎯 "Kod yazmak bir yaşam biçimidir."  
+<h3 align="center">Front-end Developer</h3>
 
 ---
 
@@ -45,8 +37,12 @@
 
 ---
 
-### ✨ Motivasyon
-> "Kod bir yaşam biçimidir. Hayatı düzeltmek istiyorsan önce algoritmanı düzelt."  
+### 📱 Rch Pro V3 Download
+Çeşitli arşivlerin olduğu **mobil uygulamamız**.  
+[İndirme Sayfası](https://indirme.com)  
+
+> ⚠️ Buradaki tüm projeler **açık kodlu** olup, uygulama içinde **ücret talep etmeden**, **reklamlı bir şekilde** gösterilmiştir.  
+> "Paylaşmak geliştirmektir." – *Rch Mobile Team*  
 
 <p align="center">
   <img src="https://i.ibb.co/QdYtVdF/dark-coding.gif" alt="Dark Coding GIF" />
