@@ -42,15 +42,15 @@
 
 ---
 
-### 📱 Rch Pro V3
+### 📱 Özelleştir Pro
 
 <div align="center">
 
-Çeşitli arşivlerin ve araçların bulunduğu kapsamlı mobil uygulama.
+Kapsamlı araçlar ve arşivlerin bulunduğu özelleştirilebilir mobil uygulama.
 
 <p align="center">
   <a href="https://indirme.com" target="_blank">
-    <img src="https://img.shields.io/badge/İNDİR-Rch%20Pro%20V3-%2300FFAA?style=for-the-badge&logo=android&logoColor=white&labelColor=000000"/>
+    <img src="https://img.shields.io/badge/İNDİR-Özelleştir%20Pro-%2300FFAA?style=for-the-badge&logo=android&logoColor=white&labelColor=000000"/>
   </a>
 </p>
 
