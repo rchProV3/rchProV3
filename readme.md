@@ -20,12 +20,16 @@
 
 ---
 
-### 🌐 Bana Ulaş
+### 🌐 İletişim & İndirme
 <p align="center">
   <a href="https://instagram.com/baturch.sbs" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E1306C?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://t.me/batuPkg" target="_blank"><img src="https://img.shields.io/badge/Telegram-%230068D9?style=for-the-badge&logo=telegram&logoColor=white"/></a>
   <a href="https://rchMobile.xyz" target="_blank"><img src="https://img.shields.io/badge/WebSite-%23FF6F00?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+  <a href="https://indirme.com" target="_blank"><img src="https://img.shields.io/badge/Rch%20Pro%20V3%20Download-%2300FFAA?style=for-the-badge&logo=android&logoColor=white"/></a>
 </p>
+
+> ⚠️ Buradaki tüm projeler **açık kodlu** olup, uygulama içinde **ücret talep etmeden**, **reklamlı bir şekilde** gösterilmiştir.  
+> "Paylaşmak geliştirmektir." – *Rch Mobile Team*  
 
 ---
 
@@ -35,19 +39,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=dark" />
 </p>
 
----
-
-### 📱 Rch Pro V3 Download
-Çeşitli arşivlerin olduğu **mobil uygulamamız**.  
-[İndirme Sayfası](https://indirme.com)  
-
-> ⚠️ Buradaki tüm projeler **açık kodlu** olup, uygulama içinde **ücret talep etmeden**, **reklamlı bir şekilde** gösterilmiştir.  
-> "Paylaşmak geliştirmektir." – *Rch Mobile Team*  
-
 <p align="center">
   <img src="https://i.ibb.co/QdYtVdF/dark-coding.gif" alt="Dark Coding GIF" />
 </p>
-
----
 
 <p align="center">🖤 Dark Elite Modu Aktif. Her satır kod bir imzadır.</p>
