@@ -105,7 +105,7 @@ document.getElementById('login-btn').addEventListener('click', () => {
     showMessage('login-message', `Hoş geldiniz ${username}!`, 'success');
     
     setTimeout(() => {
-      window.location.href = 'panel1.html';
+      window.location.href = 'go:free';
     }, 800);
   } else {
     showMessage('login-message', 'Kullanıcı adı veya şifre hatalı', 'error');
@@ -149,7 +149,7 @@ document.getElementById('vip-btn').addEventListener('click', () => {
         showMessage('vip-message', `VIP hoş geldiniz ${inputUsername}!`, 'success');
         
         setTimeout(() => {
-          window.location.href = 'panel2.html';
+          window.location.href = 'go:vip';
         }, 800);
       } else {
         showMessage('vip-message', 'VIP kullanıcı bulunamadı', 'error');
